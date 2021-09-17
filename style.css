@@ -70,7 +70,7 @@ main img{
     top: 82px;
 }
 
-h1.info{
+section.info{
     position: absolute;
     top: 200px;
     left: 97px;
@@ -79,7 +79,7 @@ h1.info{
     color: var(--dark-saturated-blue);
 }
 
-p.age{
+.age{
     display: inline;
     color: var(--dark-gray);
     font-weight: normal;
